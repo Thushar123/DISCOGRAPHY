@@ -1,0 +1,447 @@
+.main-nav{
+	width: 100%;
+	height:60px;
+	margin: auto;
+}
+ul{
+	position: absolute;
+	top: 10px;
+	left: 450px;
+}
+ul li{
+	list-style-type: none;
+	float: left;
+}
+ul li a{
+	text-decoration: none;
+	padding-left: 15px;
+	padding-right: 15px;
+	color: black;
+}
+img{
+	position: absolute;
+	top: 15px;
+	left: 30px;
+}
+header{
+	width: 100%;
+	height: 120px;
+}
+h1{
+	padding-left: 10px;
+	border-left: 10px solid #ffe500;
+	position: absolute;
+	left: 40px;
+}
+.discography{
+	position: absolute;
+	top: 130px;
+	left: 40px;
+}
+section{
+	width: 100%;
+	height: 430px;
+}
+.div1{
+	width: 30%;
+	height: 430px;
+	float: left;
+	margin-right: 30px;
+	
+}
+.div2{
+	width: 30%;
+	height: 430px;
+	float: left;
+	margin-right: 30px;
+}
+.div3{
+	width: 30%;
+	height: 430px;
+	float: left;
+}
+.img1{
+	width: 90%;
+	height: 360px;
+    position: relative;
+    top: 5px;
+    border-radius: 10px;
+}
+.img2{
+    width: 90%;
+	height: 360px;
+    position: relative;
+    top: 5px;
+    border-radius: 10px;
+}
+.img3{
+    width: 90%;
+	height: 360px;
+    position: relative;
+    top: 5px;
+    border-radius: 10px;
+}
+small{
+	position: relative;
+	top: 13px;
+	left: 32PX;
+	color: dimgrey;
+	opacity: 0.5;
+}
+p{
+	position: relative;
+	top: 3px;
+	left: 32px;
+}
+.upcomming_gigs{
+	width: 100%;
+	height: 600px;
+	background-color: darkgrey;
+}
+.feb1{
+	width: 46%;
+	height: 240px;
+	background-color: white;
+	position: relative;
+	top: 80px;
+	left: 36px;
+	border-radius: 5px;
+   }
+.feb2{
+	width: 46%;
+	height: 240px;
+	background-color: white;
+	position: relative;
+	top: -160px;
+	left: 670px;
+	border-radius: 5px;
+}
+.feb3{
+	width: 46%;
+	height: 240px;
+	background-color: white;
+	position: relative;
+	top: -150px;
+	left: 36px;
+	border-radius: 5px;
+}
+.feb4{
+	width: 46%;
+	height: 240px;
+	background-color: white;
+	position: relative;
+	top: -390px;
+	left: 670px;
+	border-radius: 5px;
+}
+.feb1-23{
+    width: 20%;
+	height: 240px;
+	border-right: 3px dashed grey;
+	float: left;
+   }
+  h2{
+	  position: absolute;
+	  top: 5px;
+	  left: 30px;
+	  font-size: 4em;
+  }
+  .small1{
+	  position: absolute;
+	  top: 120px;
+	  left: 45px;
+	  font-size: 20px;
+  }
+  .dj1{
+	  width: 79%;
+	  height: 240px;
+	  float: left;
+  }
+  .s1{
+	  position: absolute;
+	  left: 195px;
+	  top: 30px;
+  }
+  .h3-1{
+	  position: absolute;
+	  left: 195px;
+	  top: 26px;
+  }
+  .p1{
+	  position: absolute;
+	  left: 205px;
+	  top: 46px;
+  }
+  #i1{
+
+	  position: absolute;
+	  top: 2px;
+	  left: -40px;
+
+  }
+  .p1-1{
+	  position: absolute;
+	  left: 205px;
+	  top: 110px;
+  }
+  #i2{
+	  position: absolute;
+	  top: 5px;
+	  left: -35px;
+  }
+.feb2-23{
+    width: 20%;
+	height: 240px;
+	border-right: 3px dashed grey;
+	float: left;
+   }
+  .h2-2{
+	  position: absolute;
+	  top: 5px;
+	  left: 30px;
+	  font-size: 4em;
+  }
+  .small2{
+	  position: absolute;
+	  top: 120px;
+	  left: 45px;
+	  font-size: 20px;
+  }
+  .dj2{
+	  width: 79%;
+	  height: 240px;
+	  float: left;
+  }
+  .s2{
+	  position: absolute;
+	  left: 200px;
+	  top: 30px;
+  }
+  .h3-2{
+	  position: absolute;
+	  left: 200px;
+	  top: 26px;
+  }
+  .p2{
+	  position: absolute;
+	  left: 215px;
+	  top: 46px;
+  }
+  #i3{
+
+	  position: absolute;
+	  top: 2px;
+	  left: -45px;
+
+  }
+  .p2-1{
+	  position: absolute;
+	  left: 215px;
+	  top: 110px;
+  }
+  #i4{
+	  position: absolute;
+	  top: 5px;
+	  left: -40px;
+  }
+.feb3-23{
+    width: 20%;
+	height: 240px;
+	border-right: 3px dashed grey;
+	float: left;
+   }
+  .h2-3{
+	  position: absolute;
+	  top: 5px;
+	  left: 30px;
+	  font-size: 4em;
+  }
+  .small3{
+	  position: absolute;
+	  top: 120px;
+	  left: 45px;
+	  font-size: 20px;
+  }
+  .dj3{
+	  width: 79%;
+	  height: 240px;
+	  float: left;
+  }
+  .s3{
+	  position: absolute;
+	  left: 200px;
+	  top: 30px;
+  }
+  .h3-3{
+	  position: absolute;
+	  left: 200px;
+	  top: 26px;
+  }
+  .p3{
+	  position: absolute;
+	  left: 215px;
+	  top: 46px;
+  }
+  #i5{
+
+	  position: absolute;
+	  top: 2px;
+	  left: -45px;
+
+  }
+  .p3-1{
+	  position: absolute;
+	  left: 215px;
+	  top: 110px;
+  }
+  #i6{
+	  position: absolute;
+	  top: 5px;
+	  left: -40px;
+  }
+.feb4-23{
+    width: 20%;
+	height: 240px;
+	border-right: 3px dashed grey;
+	float: left;
+   }
+  .h2-4{
+	  position: absolute;
+	  top: 5px;
+	  left: 30px;
+	  font-size: 4em;
+  }
+  .small4{
+	  position: absolute;
+	  top: 120px;
+	  left: 45px;
+	  font-size: 20px;
+  }
+  .dj4{
+	  width: 79%;
+	  height: 240px;
+	  float: left;
+  }
+  .s4{
+	  position: absolute;
+	  left: 200px;
+	  top: 30px;
+  }
+  .h3-4{
+	  position: absolute;
+	  left: 200px;
+	  top: 26px;
+  }
+  .p4{
+	  position: absolute;
+	  left: 215px;
+	  top: 46px;
+  }
+  #i7{
+
+	  position: absolute;
+	  top: 2px;
+	  left: -45px;
+
+  }
+  .p4-1{
+	  position: absolute;
+	  left: 215px;
+	  top: 110px;
+  }
+  #i8{
+	  position: absolute;
+	  top: 5px;
+	  left: -40px;
+  }
+.location{
+	width: 100%;
+	height: 600px;
+	}
+.loc1{
+	width: 30%;
+	height: 600px;
+	position: relative;
+	top: 0;
+	left: 0;
+}
+.loc2{
+	width: 70%;
+	height: 600px;
+	position: relative;
+	top: -100%;
+	left: 30%;
+}
+.h1-2{
+position: relative;
+top: 10px;
+left: 0;
+}
+iframe{
+	position: relative;
+	top: 30px;
+}
+.small5{
+	  position: relative;
+	  top: -276px;
+	  left: 62px;
+	  font-size: 20px;
+  }
+  .h3-5{
+  	position: relative;
+  	top: -298px;
+  	left: 100px;
+  }
+  #i9{
+  	position: relative;
+  	top: -260px;
+  	left: 58px;
+  }
+  .small6{
+	  position: relative;
+	  top: -276px;
+	  left: 100px;
+	  font-size: 20px;
+  }
+  .h3-6{
+  	position: relative;
+  	top: -298px;
+  	left: 100px;
+  }
+  #i10{
+  	position: relative;
+  	top: -260px;
+  	left: 58px;
+  }
+   .small7{
+	  position: relative;
+	  top: -276px;
+	  left: 62px;
+	  font-size: 20px;
+  }
+  .h3-7{
+  	position: relative;
+  	top: -298px;
+  	left: 100px;
+  }
+  #i11{
+  	position: relative;
+  	top: -260px;
+  	left: 58px;
+  }
+   .small8{
+	  position: relative;
+	  top: -276px;
+	  left: 62px;
+	  font-size: 20px;
+  }
+  .h3-8{
+  	position: relative;
+  	top: -298px;
+  	left: 100px;
+  }
+  #i12{
+  	position: relative;
+  	top: -260px;
+  	left: 58px;
+  }
